@@ -28,7 +28,7 @@ namespace ConsoleApplication2
             }
 
 
-            Console.ReadKey(); // ---
+            Console.ReadKey(); 
 
         }
     }
